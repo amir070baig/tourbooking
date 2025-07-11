@@ -3,7 +3,7 @@
 A complete end-to-end **Next.js 14 + Firebase** powered **Tour Booking Platform** built for a real client from Agra, India 🇮🇳.  
 This app enables users to explore, book, and manage tours with ease — and includes a powerful **Admin Panel**.
 
-> 🔥 Deployed Live → [tourbooking.vercel.app](https://tourbooking.vercel.app)
+> 🔥 Deployed Live → [tourbooking.vercel.app](tourbooking-two.vercel.app)
 
 ---
 
