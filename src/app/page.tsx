@@ -33,7 +33,7 @@ export default function HomePage() {
   }, [])
   return (
     <main className="p-6">
-      <h1 className="text-3xl font-bold mb-6">Available Tours</h1>
+      <h1 className="text-3xl text-gray-800 font-bold mb-6">Available Tours</h1>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {tours.map((tour) => (
           <div key={tour.id} className="bg-white shadow rounded-xl overflow-hidden">
